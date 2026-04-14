@@ -17,7 +17,7 @@
 
 MediLink integrates and centralizes health records from multiple providers into a unified system — streamlining documentation, prescriptions, and reports so patients have a single organized view of their medical history.
 
-**Live demo:** [18.206.196.6:8081](http://18.206.196.6:8081)
+*Capstone delivered 12/2024. Live demo server was decommissioned post-submission — source code available in this repo.*
 
 ---
 
